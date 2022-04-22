@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Farhan/AndroidStudioProjects/YourNote/app/src/main/res/drawable/header.xml" value="0.19" />
+        <entry key="..\:/Users/Farhan/AndroidStudioProjects/YourNote/app/src/main/res/drawable/ic_baseline_note_add_24.xml" value="0.116" />
+        <entry key="..\:/Users/Farhan/AndroidStudioProjects/YourNote/app/src/main/res/layout/activity_edit.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Farhan/AndroidStudioProjects/YourNote/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Farhan/AndroidStudioProjects/YourNote/app/src/main/res/layout/list_item.xml" value="0.1793478260869565" />
+      </map>
+    </option>
+  </component>
+</project>
